@@ -108,15 +108,15 @@ Representative sample trajectories for several time step sizes are shown below.
 
 ### Trajectory for $h=0.1$
 
-![Trajectory for h=0.1](fig4.png)
+![Trajectory for h=0.1](images/fig4.png)
 
 ### Trajectory for $h=0.01$
 
-![Trajectory for h=0.01](fig3.png)
+![Trajectory for h=0.01](images/fig3.png)
 
 ### Trajectory for $h=0.001$
 
-![Trajectory for h=0.001](fig2.png)
+![Trajectory for h=0.001](images/fig2.png)
 
 ## Notes
 
